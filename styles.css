@@ -3,6 +3,7 @@ body {
     margin:0;
     padding:0;
 }
+/* Header  */
 header {
     margin:0;
     padding: 10px 25px;
@@ -30,4 +31,9 @@ header ul {
     list-style-type: none;
     display:flex;
     gap: 10px;
+}
+
+/* Hero Section */
+.hero-ctn {
+    display:flex;
 }

@@ -1,2 +1,4 @@
 # Project: Landing Page
-Starting the Landing Page project.
+
+### Image Credits:
+ - Car Image: https://unsplash.com/@zacmeadowcroft
