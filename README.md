@@ -1,4 +1,4 @@
 # Project: Landing Page
 
 ### Image Credits:
- - Car Image: https://unsplash.com/@zacmeadowcroft
+ - Piano Image: https://unsplash.com/@rpianarosa

@@ -36,4 +36,29 @@ header ul {
 /* Hero Section */
 .hero-ctn {
     display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    gap: 10px;
+}
+
+.hero-img-ctn {
+    flex:1;
+}
+
+.hero-img-ctn img {
+    width: 300px;
+}
+
+.hero-text {
+    color: #F9FAF8;
+    width: 400px;
+    flex:1;
+}
+
+.hero-text h1 {
+    margin:0;
+    padding:0;
+    font-size: 48px;
+    
 }
